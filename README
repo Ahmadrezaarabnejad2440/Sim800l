@@ -1,1 +1,3 @@
 use sim800l
+
+GPRS: connect to server, send and recive data whit internet
